@@ -5,7 +5,7 @@ Next meeting: March 21 - 5:30PM at Blaze in Bangor
 
 Sponsored by Fortinet
 
-##[RSVP Form](https://docs.google.com/forms/d/e/1FAIpQLSdawxOgUqqUxcUhdUniCB9CacM6T9C1nHjqtszdkdwQCWTv7g/viewform?usp=sf_link)
+Please fill out the [RSVP Form](https://docs.google.com/forms/d/e/1FAIpQLSdawxOgUqqUxcUhdUniCB9CacM6T9C1nHjqtszdkdwQCWTv7g/viewform?usp=sf_link)
 
 ## Contact
 [LinkedIn Group](https://www.linkedin.com/groups/7054424)
