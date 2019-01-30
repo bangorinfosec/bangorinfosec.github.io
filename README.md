@@ -8,4 +8,4 @@ Bangor Information Security Professionals is a professional networking group bui
 ## Contact
 [LinkedIn Group](https://www.linkedin.com/groups/7054424)
 
-Founder: [Cory Cavanagh](mailto:cory[dot]cavanagh[at]gmail[dot]com)
+[E-mail](mailto:cory[dot]cavanagh[at]gmail[dot]com) (Cory Cavanagh, Founder)
