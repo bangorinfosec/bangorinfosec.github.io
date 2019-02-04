@@ -10,6 +10,7 @@ Bangor Information Security Professionals is a professional networking group bui
 ## IRC Information 
 
 Server: irc.freenode.net
+
 Channel: #bisp
 
 ## Contact
