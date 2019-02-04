@@ -6,13 +6,12 @@ Bangor Information Security Professionals is a professional networking group bui
 
 ## [Member Resources](/resources)
 
+## IRC Information 
+
+Server: irc.freenode.net
+Channel: #bisp
+
 ## Contact
 [LinkedIn Group](https://www.linkedin.com/groups/7054424)
 
 [Message Group Admin](mailto:cory[dot]cavanagh[at]gmail[dot]com) 
-
-## IRC Information 
-
-Server: irc.freenode.net
-
-Channel: #bisp
