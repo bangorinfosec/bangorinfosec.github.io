@@ -6,6 +6,7 @@ Bangor Information Security Professionals is a professional networking group bui
 
 ## Next Meeting Information
 Tuesday, March 19th at 5:30pm
+
 Mason's Brewing Company, 15 Hardy Street Brewer, Maine
 
 ## Member Resources
