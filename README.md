@@ -10,7 +10,7 @@ Date: TBD
 Time: TBD
 
 ## Member Resources
-[Presentation Materials](https://github.com/bangorinfosec/bangorinfosec.github.io/tree/master/resources)
+<img class="social_media_icons" src="images/folder_icon_light.png">[Presentation Materials](https://github.com/bangorinfosec/bangorinfosec.github.io/tree/master/resources)
 
 [YouTube Channel](https://www.youtube.com/channel/UCQI3Gm_gU83WIvzq5pUR_8A)
 
