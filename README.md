@@ -17,4 +17,4 @@ Time: TBD
 ## Contact
 [LinkedIn Group](https://www.linkedin.com/groups/7054424)
 
-[Message Group Admin](mailto:cory[dot]cavanagh[at]gmail[dot]com) 
+[Message the Group Admin](mailto:cory[dot]cavanagh[at]gmail[dot]com) 
