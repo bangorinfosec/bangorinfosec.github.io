@@ -12,9 +12,9 @@ Time: TBD
 ## Member Resources
 <img height="24px" width="24px" src="images/folder_icon_light.png">[Presentation Materials](https://github.com/bangorinfosec/bangorinfosec.github.io/tree/master/resources)
 
-[YouTube Channel](https://www.youtube.com/channel/UCQI3Gm_gU83WIvzq5pUR_8A)
+<img height="24px" width="24px" src="images/youtube_logo.png">[YouTube Channel](https://www.youtube.com/channel/UCQI3Gm_gU83WIvzq5pUR_8A)
 
 ## Contact
-[LinkedIn Group](https://www.linkedin.com/groups/7054424)
+<img height="24px" width="24px" src="images/linkedin_logo.png">[LinkedIn Group](https://www.linkedin.com/groups/7054424)
 
-[Message the Group Admin](mailto:cory[dot]cavanagh[at]gmail[dot]com) 
+<img height="24px" width="24px" src="images/email_icon_black.png">[Message the Group Admin](mailto:cory[dot]cavanagh[at]gmail[dot]com) 
