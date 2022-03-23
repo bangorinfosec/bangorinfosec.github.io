@@ -1,4 +1,4 @@
-<img src="images/bisp_logo.png" height="140px" width="250px" align="center">
+<img id="logo" src="images/bisp_logo.png" height="140px" width="250px" align="center">
 
 This is the official page for the Bangor Information Security Professionals (BISP) group. 
 
