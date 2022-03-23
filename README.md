@@ -9,8 +9,8 @@ Date: TBD
 
 Time: TBD
 
-## Member Resources
-<img height="24px" width="24px" src="images/folder_icon_light.png">[Presentation Materials](https://github.com/bangorinfosec/bangorinfosec.github.io/tree/master/resources)
+## Resources
+<img height="24px" width="24px" src="images/folder_icon_light.png">[Presentations](https://github.com/bangorinfosec/bangorinfosec.github.io/tree/master/resources)
 
 <img height="24px" width="24px" src="images/youtube_logo.png">[YouTube Channel](https://www.youtube.com/channel/UCQI3Gm_gU83WIvzq5pUR_8A)
 
