@@ -5,7 +5,10 @@ This is the official page for the Bangor Information Security Professionals (BIS
 Bangor Information Security Professionals is a professional networking group built for local information security professionals to discuss the exciting things they are working on, challenges they are facing, and overall share our unique knowledge to better the community as a whole.
 
 ## Meeting Information
-TBD
+Title: Web Server Enumeration
+Date: Tuesday, April 26th
+Time: 5:30 PM
+Link: hxxps://corycavanagh.my.webex.com/corycavanagh.my/j.php?MTID=m62fb778d959a6a9940164789d0a5947c
 
 ## Resources
 <img height="24px" width="24px" src="images/folder_icon_light.png">[Presentations](https://github.com/bangorinfosec/bangorinfosec.github.io/tree/master/resources)
