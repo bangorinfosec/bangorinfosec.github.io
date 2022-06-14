@@ -5,13 +5,13 @@ This is the official page for the Bangor Information Security Professionals (BIS
 Bangor Information Security Professionals is a professional networking group built for local information security professionals to discuss the exciting things they are working on, challenges they are facing, and overall share our unique knowledge to better the community as a whole.
 
 ## Meeting Information
-<b>Title:</b> Web Server Enumeration
+<b>Title:</b> Networking Event
 
-<b>Date:</b> Tuesday, April 26th
+<b>Date:</b> Tuesday, June 14, 2022
 
 <b>Time:</b> 5:30 PM
 
-<b>Link:</b> hxxps://corycavanagh.my.webex.com/corycavanagh.my/j.php?MTID=m62fb778d959a6a9940164789d0a5947c
+<b>Location:</b> Mason's Brewing Co, 15 Hardy St, Brewer, ME 04412
 
 ## Resources
 <img height="24px" width="24px" src="images/folder_icon_light.png">[Presentations](https://github.com/bangorinfosec/bangorinfosec.github.io/tree/master/resources)
